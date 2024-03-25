@@ -28,7 +28,7 @@ function createPyramidArray(arr) {
     return pyramid;
 }
 
-//sorts the object into an array
+// Sorts the object into an array
 const sortedObj = Object.entries(dataObject).sort(function(a, b){return b-a}); 
 
 // Get the array into a pyramid structure
