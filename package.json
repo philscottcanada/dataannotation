@@ -1,0 +1,11 @@
+{
+  "name": "dataannotation",
+  "version": "1.0.0",
+  "description": "Data Annotation entrance exam to create a pyramid decode function",
+  "main": "decrypt.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Philly!",
+  "license": "ISC"
+}
